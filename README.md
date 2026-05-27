@@ -25,7 +25,6 @@ The platform focuses on the Indian banking sector’s evolving **e-KYC** and **V
 
 # ⚙️ Technology Stack
 
-## ⚙️ Technology Stack
 
 | S.No | Tool / Technology | Purpose |
 |---|---|---|
