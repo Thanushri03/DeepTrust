@@ -42,33 +42,27 @@ The platform focuses on the Indian banking sector’s evolving **e-KYC** and **V
 
 # 🚀 Workflow
 
-<div align="center">
 
-Image Upload  
-⬇️  
+```text
+Image Upload
+      ↓
+Preprocessing
+      ↓
+Deepfake Detection
+      ↓
+Reverse Image Search
+      ↓
+Risk Assessment
+      ↓
+Evidence Generation
+      ↓
+Cybercrime Guidance
+```
 
-Preprocessing  
-⬇️  
-
-Deepfake Detection  
-⬇️  
-
-Reverse Image Search  
-⬇️  
-
-Risk Assessment  
-⬇️  
-
-Evidence Generation  
-⬇️  
-
-Cybercrime Guidance  
-
-</div>
 ---
 
-# 🧩 Functional Modules
 
+# 🧩 Functional Modules
 
 
 # 📤 Module 1 — Image Upload & Preprocessing
