@@ -30,7 +30,46 @@ DeepTrust enables users to:
 - Assist users in cybercrime complaint submission.
 
 ---
+---
 
+# ⚙️ Technology Stack
+
+## 🖥️ Languages
+- Python
+
+## 🧠 AI Libraries
+- PyTorch
+- HuggingFace Transformers
+- Vision Transformers (ViT)
+
+## 🌐 APIs
+- SerpAPI
+- MCP SDK
+- Google Lens Engine
+
+## 💻 Tools
+- VS Code
+- React
+
+---
+
+# 🚀 Workflow
+
+```text
+Image Upload
+      ↓
+Preprocessing
+      ↓
+Deepfake Detection
+      ↓
+Reverse Image Search
+      ↓
+Risk Assessment
+      ↓
+Evidence Generation
+      ↓
+Cybercrime Guidance
+```
 
 # 🧩 Functional Modules
 
@@ -198,46 +237,7 @@ Example:
 DeepTrust_Report_[REPORT_ID]_[TIMESTAMP].pdf
 ```
 
----
 
-# ⚙️ Technology Stack
-
-## 🖥️ Languages
-- Python
-
-## 🧠 AI Libraries
-- PyTorch
-- HuggingFace Transformers
-- Vision Transformers (ViT)
-
-## 🌐 APIs
-- SerpAPI
-- MCP SDK
-- Google Lens Engine
-
-## 💻 Tools
-- VS Code
-- React
-
----
-
-# 🚀 Workflow
-
-```text
-Image Upload
-      ↓
-Preprocessing
-      ↓
-Deepfake Detection
-      ↓
-Reverse Image Search
-      ↓
-Risk Assessment
-      ↓
-Evidence Generation
-      ↓
-Cybercrime Guidance
-```
 
 ---
 
