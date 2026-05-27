@@ -30,7 +30,7 @@ DeepTrust enables users to:
 - Assist users in cybercrime complaint submission.
 
 ---
----
+
 
 # ⚙️ Technology Stack
 
