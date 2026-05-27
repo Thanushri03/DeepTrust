@@ -141,12 +141,27 @@ torch.no_grad()
 
 Probability scores are generated using Softmax classification.
 
-### ✅ Output
-- Fake Probability
-- Real Probability
-- Risk Level (HIGH / MEDIUM / LOW)
+The final prediction output includes:
+
+* Fake Probability (%)
+* Real Probability (%)
+* Risk Category
 
 ---
+
+### 📊 Risk Classification
+
+| Confidence Score | Risk Level |
+| ---------------- | ---------- |
+| > 85%            | 🔴 HIGH    |
+| 60% – 85%        | 🟠 MEDIUM  |
+| < 60%            | 🟢 LOW     |
+
+---
+
+```
+```
+
 
 # 🔎 Module 3 — Reverse Image Search
 
