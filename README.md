@@ -31,31 +31,6 @@ DeepTrust enables users to:
 
 ---
 
-# 🏗️ System Architecture
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                        DEEPTRUST                            │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  📤 Module 1: Image Upload & Preprocessing                   │
-│               │                                              │
-│               ▼                                              │
-│  🧠 Module 2: AI-Generated Image Detection                   │
-│               │                                              │
-│               ▼                                              │
-│  🔎 Module 3: Reverse Image Search                           │
-│               │                                              │
-│               ▼                                              │
-│  🌐 Module 4: Cybercrime Portal Integration                  │
-│               │                                              │
-│               ▼                                              │
-│  📄 Final Evidence Report Generation                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
 
 # 🧩 Functional Modules
 
