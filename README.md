@@ -25,22 +25,19 @@ The platform focuses on the Indian banking sector’s evolving **e-KYC** and **V
 
 # ⚙️ Technology Stack
 
-## 🖥️ Languages
-- Python
+## ⚙️ Technology Stack
 
-## 🧠 AI Libraries
-- PyTorch
-- HuggingFace Transformers
-- Vision Transformers (ViT)
-
-## 🌐 APIs
-- SerpAPI
-- MCP SDK
-- Google Lens Engine
-
-## 💻 Tools
-- VS Code
-- React
+| S.No | Tool / Technology | Purpose |
+|---|---|---|
+| 1 | Python | Core programming language used for backend development and AI pipeline implementation |
+| 2 | PyTorch | Deep learning framework used for model inference and tensor operations |
+| 3 | HuggingFace Transformers | Used to load and execute pretrained Vision Transformer models |
+| 4 | Vision Transformer (ViT) | Detects AI-generated artifacts and synthetic image patterns |
+| 5 | SerpAPI | Performs reverse image search using Google Lens integration |
+| 6 | MCP SDK (Python) | Enables Model Context Protocol integration for intelligent agent workflows |
+| 7 | Google Lens Engine | Identifies online occurrences and visual matches of uploaded images |
+| 8 | React | Used for developing the frontend user interface |
+| 9 | VS Code | Development environment used for coding and debugging |
 
 ---
 
