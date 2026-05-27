@@ -253,20 +253,4 @@ By combining:
 
 the platform delivers a complete investigation workflow suitable for banking and digital identity verification systems.
 
----
-
-# 👩‍💻 Project Information
-
-| Field | Details |
-|---|---|
-| Project Title | DEEPTRUST: A User-Centric Platform for Deepfake Detection and Reporting System |
-| Organization | Accenture |
-| Domain | AI & Machine Learning |
-| Developer | Thanushri S |
-| Course | M.Sc – AI & ML |
-
----
-
-# ⭐ DeepTrust
-
 > Building trust in digital identity systems through AI-powered forensic intelligence.
