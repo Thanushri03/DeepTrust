@@ -10,15 +10,6 @@ DeepTrust is an AI-powered forensic investigation platform designed to combat th
 
 The platform focuses on the Indian banking sector’s evolving **e-KYC** and **Video Customer Identification Process (V-CIP)** ecosystem, where identity fraud using synthetic media has become a major cybersecurity concern.
 
-DeepTrust enables users to:
-
-- 📤 Upload suspicious images
-- 🧠 Detect whether an image is AI-generated or authentic
-- 🔎 Trace image occurrences across the web
-- ⚠️ Assess risks and malicious usage
-- 📄 Generate forensic evidence reports
-- 🌐 Access official cybercrime complaint portals
-
 ---
 
 # 🎯 Objectives
