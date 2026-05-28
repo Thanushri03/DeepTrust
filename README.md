@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # DeepTrust 🔐
 
 > **A User-Centric Platform for Deepfake Detection and Reporting System**
@@ -247,21 +253,7 @@ DeepTrust_Report_[REPORT_ID]_[TIMESTAMP].pdf
 ---
 # 🎥 Project Demo
 
-https://github.com/Thanushri03/DeepTrust/final_implementation (1).mp4
+https://github.com/user-attachments/assets/80af0e16-9a19-431e-a244-7baccfe53e23
 
 
 
----
-# 📌 Conclusion
-
-DeepTrust provides an AI-driven forensic ecosystem for detecting, investigating, and reporting deepfake-based identity fraud.
-
-By combining:
-- Vision Transformers
-- Agentic AI
-- Reverse Image Search
-- Cybercrime Reporting Assistance
-
-the platform delivers a complete investigation workflow suitable for banking and digital identity verification systems.
-
-> Building trust in digital identity systems through AI-powered forensic intelligence.
