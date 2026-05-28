@@ -245,7 +245,13 @@ DeepTrust_Report_[REPORT_ID]_[TIMESTAMP].pdf
 
 
 ---
+# 🎥 Project Demo
 
+https://github.com/Thanushri03/DeepTrust/final_implementation (1).mp4
+
+
+
+---
 # 📌 Conclusion
 
 DeepTrust provides an AI-driven forensic ecosystem for detecting, investigating, and reporting deepfake-based identity fraud.
